@@ -1,0 +1,27 @@
+
+body{
+	color: yellow;
+	
+	background-image: url("pointers.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top-right;
+}
+a, h1{
+	color: red;
+}
+a{
+	color: blue;
+}
+p{
+	width: 50%;
+}
+
+.sml{
+	width: 200px;
+	height: 200px;
+}
+.med{
+	width: 400px;
+	height: 400px;
+}
